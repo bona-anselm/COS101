@@ -12,4 +12,5 @@ print("Level: 100")
 print("Week: 1")
 print()
 print("Today, I will create and run a Python program.")
+print("We now understand Git and GitHub, and how to use them to manage our code.")
 
