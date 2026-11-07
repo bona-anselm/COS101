@@ -9,3 +9,5 @@ print("The variable 'height' is ",type(height))
 print("The variable 'is_registered' is ",type(is_registered))
 
 print(f"{not is_registered} is the opposite of {is_registered}")
+
+print("I just made changes from remote github")
