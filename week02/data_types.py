@@ -7,3 +7,5 @@ print("The variable 'student_name' is ", type(student_name))
 print("The variable 'age' is ",type(age))
 print("The variable 'height' is ",type(height))
 print("The variable 'is_registered' is ",type(is_registered))
+
+print(f"{not is_registered} is the opposite of {is_registered}")
